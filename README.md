@@ -1,6 +1,8 @@
 # Custom Object Detection - Knife
 Object Detection using TensorFlow-Object-Detection_API
 
+### > *This project heavily relies on the processes and code from `TensorFlow`*
+
 ## Screenshots
 ![Alt text](screenshots/knife1.jpg?raw=true "1")
 ![Alt text](screenshots/knife2.jpg?raw=true "2")
